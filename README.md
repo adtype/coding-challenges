@@ -7,7 +7,7 @@
 
 2. Given two strings, write a program that efficiently finds the longest common subsequence
 
-3. In this exercise you have to analyze records of tempoerature to find the closest to zero. Implement the function closestToZero to return the temperature closer to zero which belongs to the array ts.
+3. In this exercise you have to analyze records of temperature to find the closest to zero. Implement the function closestToZero to return the temperature closer to zero which belongs to the array ts.
 
 ```javascript
 function closestToZero(ts) {
